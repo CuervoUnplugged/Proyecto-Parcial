@@ -7,7 +7,4 @@
 ## Estructura del repositorio
 Proyecto Parcial/
 README.md
-docs/
-informe_hangman.pdf
-pruebas_hangman.pdf
 hangman.cpp
